@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+sqlglot>=25.0.0
+pandas>=2.0.0
+pytest>=7.0.0
